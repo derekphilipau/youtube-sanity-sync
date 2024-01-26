@@ -1,8 +1,10 @@
-# Youtube Sanity Connect
+# Youtube Sanity Sync
 
 This is a simple script to sync your YouTube videos to Sanity.
 
 Can be run as a one-off or as a cron job.
+
+Work in Progress.
 
 ## Google Cloud Setup
 

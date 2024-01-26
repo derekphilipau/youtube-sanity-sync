@@ -1,5 +1,5 @@
 {
-  "name": "youtube-sanity-connect",
+  "name": "youtube-sanity-sync",
   "version": "0.0.1",
   "description": "A YouTube to Sanity.io connector",
   "author": "Derek Au",
